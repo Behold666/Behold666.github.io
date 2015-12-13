@@ -1,0 +1,18 @@
+body {
+    background-color: #1a0000;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: arial;
+}
+
+h1, p {
+    color: #ff0000;
+}
+h1{
+	font-size: 100px;
+}
+
+p{
+	font-size: 24px;
+}
