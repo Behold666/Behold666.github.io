@@ -1,0 +1,111 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,300,700);
+
+body {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+  	background: url("../images/rsp_bg.jpg");
+  	background-size: cover;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+h2 {
+
+	color: #FFF;
+}
+
+nav {
+
+	background: #E8C66A;
+    border: 1px black solid;
+	font-size: 10pt;
+	text-transform: uppercase;
+	color: #b3b3b3;
+	padding: 15px;
+	margin: 0px;
+	box-shadow: 3px 3px 3px #000;
+}
+
+a:hover { 
+	color: #730303; 
+}
+
+h1 {
+
+font-size: 113pt;
+color: #730303;
+margin-top: 200px;
+margin-bottom: 20px;
+font-weight: 800
+}
+
+img {
+
+	margin-top: 20px;
+}
+
+h3{
+
+	font-size: 34pt;
+	color:#b3b3b3;
+	font-style: italic;
+	padding: 0;
+	margin: 0;
+    font-weight: 300
+
+}
+
+p {
+	font-size: 20pt;
+	color:#b3b3b3;
+	line-height: 40px;
+	padding-top: 5px;
+    border: solid #383f4a;
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-top: 50px;
+
+}
+
+ul {
+	font-size: 14pt;
+	color:#b3b3b3;
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+
+	display: inline;
+}
+
+a {
+
+	text-decoration: none;
+	color: #b3b3b3;
+}
+
+section {
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color:#FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+main {
+    background-color:#E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
