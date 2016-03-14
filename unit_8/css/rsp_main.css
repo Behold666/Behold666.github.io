@@ -1,0 +1,106 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,300,700);
+
+body {
+	font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+	text-align: center;
+    background: #666;
+}
+
+nav {
+	height: 2em;
+	text-transform: uppercase;
+    margin-top: 3em ;
+}
+
+a {
+  font-size: 1.5em;
+  text-decoration: none;
+  color: #000;
+}
+
+
+nav li {
+	display: inline;
+    margin: 2em;
+}
+
+
+h1 {
+	font-size: 7em;
+	color: #730303;
+}
+
+h2 {
+	font-size: 3em;
+}
+
+
+.tagline {
+	font-size: 4em;
+	color: #730303;
+}
+
+
+.p1 img {
+	width: 80%;
+	height: 20%;
+	} 
+
+
+.p2 img {
+	width: 80%;
+	height: 20%;
+}
+
+.p3 img {
+	width: 80%;
+	height: 20%;
+}
+
+
+
+
+
+/* media queries below! */
+
+
+
+/* for tablets */
+
+@media only screen and (max-width: 720px){
+
+
+
+a {
+  font-size: 1em;
+}
+
+h1 {
+	font-size:3em;
+}
+
+#slogan {
+		font-size: 1em;
+}
+
+}
+
+
+/* for phones */
+
+@media only screen and (max-width: 320px) { 
+
+a {
+  font-size: .5em;
+}
+
+h1 {
+	font-size:2em;
+}
+
+#slogan {
+		font-size: 1em;
+}
+
+}
